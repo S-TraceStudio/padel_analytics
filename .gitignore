@@ -15,3 +15,5 @@ videos/
 
 train/
 models/
+.idea/
+venv/
